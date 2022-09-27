@@ -275,8 +275,8 @@ const Home: NextPage = () => {
                 </a>{' '}
                 to query data over HTTP. Use the drop down to swap between different edge functions. See the source for
                 each function{' '}
-                <a href='https://github.com/planetscale/f1-championship-stats/tree/main/examples' className='text-blue'>
-                  here
+                <a href='https://github.com/solomonshalom/f1-championship-stats/tree/main/examples' className='text-blue'>
+                  here. Oh, I also made it in honor of my close friend, <a href="https://www.instagram.com/priyayeturi/">Priya</a>
                 </a>
                 .
               </p>
@@ -289,7 +289,7 @@ const Home: NextPage = () => {
             </a>
 
             <a
-              href='https://github.com/planetscale/f1-championship-stats'
+              href='https://github.com/solomonshalom/f1-championship-stats'
               className='flex items-center space-x-1 font-semibold'
             >
               <span>View on</span> <SVG src='github-icon.svg' />
