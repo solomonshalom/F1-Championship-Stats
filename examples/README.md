@@ -4,13 +4,13 @@ Each of these edge functions connects to a PlanetScale database via our serverle
 
 To learn more about how to run each function, visit the subdirectories for each:
 
-- [Cloudflare](https://github.com/planetscale/f1-championship-stats/tree/main/examples/cloudflare)
-- [Fastly](https://github.com/planetscale/f1-championship-stats/tree/main/examples/fastly)
-- [Netlify](https://github.com/planetscale/f1-championship-stats/tree/main/examples/netlify)
-- [Vercel](https://github.com/planetscale/f1-championship-stats/tree/main/examples/vercel)
+- [Cloudflare](https://github.com/solomonshalom/f1-championship-stats/tree/main/examples/cloudflare)
+- [Fastly](https://github.com/solomonshalom/f1-championship-stats/tree/main/examples/fastly)
+- [Netlify](https://github.com/solomonshalom/f1-championship-stats/tree/main/examples/netlify)
+- [Vercel](https://github.com/solomonshalom/f1-championship-stats/tree/main/examples/vercel)
 
 ## PlanetScale Database Schema
-Here is the schema used for this app. See the [Cloudflare function](https://github.com/planetscale/f1-championship-stats/tree/main/examples/cloudflare)  for how we populate it with data.
+Here is the schema used for this app. See the [Cloudflare function](https://github.com/solomonshalom/f1-championship-stats/tree/main/examples/cloudflare)  for how we populate it with data.
 
 ```sql
 CREATE TABLE `constructor_races` (
