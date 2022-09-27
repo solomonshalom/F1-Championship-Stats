@@ -276,9 +276,9 @@ const Home: NextPage = () => {
                 to query data over HTTP. Use the drop down to swap between different edge functions. See the source for
                 each function{' '}
                 <a href='https://github.com/solomonshalom/f1-championship-stats/tree/main/examples' className='text-blue'>
-                  here. Oh, I also made it in honor of my close friend, <a href="https://www.instagram.com/priyayeturi/">Priya</a>
+                  here.
                 </a>
-                .
+                Oh, I also made it in honor of my close friend, <a href="https://www.instagram.com/priyayeturi/">Priya</a>
               </p>
             </div>
           </section>
